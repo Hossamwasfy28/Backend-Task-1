@@ -1,0 +1,40 @@
+[
+    {
+        "fname": "Hossam",
+        "lname": "Wasfy",
+        "age": 25,
+        "city": "Mansoura",
+        "id": 1
+    },
+    {
+        "fname": "Eslam",
+        "age": 15,
+        "city": "Elmahalla",
+        "id": 3
+    },
+    {
+        "fname": "Mohamed",
+        "lname": "Momen",
+        "age": 19,
+        "city": "Mansoura",
+        "id": 5
+    },
+    {
+        "fname": "Adham",
+        "age": 22,
+        "city": "Tanta",
+        "id": 7
+    },
+    {
+        "fname": "Hesham",
+        "age": 56,
+        "city": "Tanta",
+        "id": 9
+    },
+    {
+        "fname": "Zein",
+        "age": 1,
+        "city": "Sharkia",
+        "id": 10
+    }
+]
